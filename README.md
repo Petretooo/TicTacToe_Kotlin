@@ -1,1 +1,1 @@
-# TicTacToe_Kotlin
+# TicTacToe_AI
